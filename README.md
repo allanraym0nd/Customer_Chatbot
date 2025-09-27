@@ -1,7 +1,9 @@
 **Simple Customer Support Chatbot**
+
 This is a beginner-level project implemented in a single Python script (designed for a Jupyter Notebook) to demonstrate basic text classification using keyword matching.
 
 **Objective**
+
 The goal of this script is to simulate a simple customer support system that can:
 
 Accept a user's question.
@@ -11,6 +13,7 @@ Classify the question into one of three predefined categories.
 Provide an immediate, predefined response based on the classification.
 
 **How It Works**
+
 The script operates using a simple logic:
 
 Input: Takes a question from the user using the input() function.
@@ -26,6 +29,7 @@ Escalation Check: A separate check for "frustration keywords" overrides the keyw
 Output: Prints the determined category and the corresponding predefined response.
 
 **Prerequisites**
+
 Python 3
 
 Jupyter Notebook (Recommended environment)
